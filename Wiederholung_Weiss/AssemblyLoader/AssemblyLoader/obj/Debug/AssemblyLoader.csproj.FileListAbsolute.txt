@@ -1,0 +1,7 @@
+C:\Users\115250\source\repos\AssemblyLoader\AssemblyLoader\obj\Debug\AssemblyLoader.csproj.AssemblyReference.cache
+C:\Users\115250\source\repos\AssemblyLoader\AssemblyLoader\obj\Debug\AssemblyLoader.csproj.CoreCompileInputs.cache
+C:\Users\115250\source\repos\AssemblyLoader\AssemblyLoader\bin\Debug\AssemblyLoader.exe.config
+C:\Users\115250\source\repos\AssemblyLoader\AssemblyLoader\bin\Debug\AssemblyLoader.exe
+C:\Users\115250\source\repos\AssemblyLoader\AssemblyLoader\bin\Debug\AssemblyLoader.pdb
+C:\Users\115250\source\repos\AssemblyLoader\AssemblyLoader\obj\Debug\AssemblyLoader.exe
+C:\Users\115250\source\repos\AssemblyLoader\AssemblyLoader\obj\Debug\AssemblyLoader.pdb
