@@ -1,0 +1,7 @@
+C:\Users\110473\source\repos\Wiederholung_Kiefer\Wiederholung_Kiefer\bin\Debug\Wiederholung_Kiefer.exe.config
+C:\Users\110473\source\repos\Wiederholung_Kiefer\Wiederholung_Kiefer\bin\Debug\Wiederholung_Kiefer.exe
+C:\Users\110473\source\repos\Wiederholung_Kiefer\Wiederholung_Kiefer\bin\Debug\Wiederholung_Kiefer.pdb
+C:\Users\110473\source\repos\Wiederholung_Kiefer\Wiederholung_Kiefer\obj\Debug\Wiederholung_Kiefer.csproj.AssemblyReference.cache
+C:\Users\110473\source\repos\Wiederholung_Kiefer\Wiederholung_Kiefer\obj\Debug\Wiederholung_Kiefer.csproj.CoreCompileInputs.cache
+C:\Users\110473\source\repos\Wiederholung_Kiefer\Wiederholung_Kiefer\obj\Debug\Wiederholung_Kiefer.exe
+C:\Users\110473\source\repos\Wiederholung_Kiefer\Wiederholung_Kiefer\obj\Debug\Wiederholung_Kiefer.pdb

@@ -1,0 +1,28 @@
+BetterTestClass
+	System.Object MemberwiseClone()
+	Void Finalize()
+	System.String ToString()
+	Void HelloWorld()
+	System.Type GetType()
+	Int32 GetHashCode()
+	Boolean Equals(System.Object)
+	Void .ctor()
+ITestInterface
+	Void Foo(System.String)
+TestClass
+	System.Object MemberwiseClone()
+	Void Finalize()
+	System.String ToString()
+	System.String TestString
+	System.String testString
+	Void set_TestString(System.String)
+	System.Type GetType()
+	Int32 GetHashCode()
+	System.String get_TestString()
+	Void Foo(System.String)
+	Boolean Equals(System.Object)
+	System.String DoSomething()
+	Void .ctor(System.String)
+	Void .ctor()
+	ITestInterface
+		Void Foo(System.String)

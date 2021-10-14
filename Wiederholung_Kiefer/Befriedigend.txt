@@ -1,0 +1,5 @@
+Für die Funktionen von Befriedigend und Genügend wurde jeweils eine ähnliche Methode in AssemblyLoadApp.cs implementiert.
+Für Befriedigend: 	GetTypeInfoV2(Type t)
+Für Genügend: 		GetTypeinfo(Type t)
+
+Dies habe ich aufgrund der Annahme getan, dass die Aufgabe für Befriedigend die Funktionalität von "show filename" aus Genügend ersetzt.
